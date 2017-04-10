@@ -1,0 +1,21 @@
+{
+    "name": "TeamOfMalaysia/logger",
+    "description": "The laravel log",
+    "keywords": ["laravel", "logger"],
+    "require": {
+        "php": ">=5.3.0",
+        "laravel/framework": "5.1.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TeamOfMalaysia",
+            "email": "lwl@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TeamOfMalaysia\\Logger\\": "src/"
+        }
+    }
+}
