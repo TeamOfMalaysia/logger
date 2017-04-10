@@ -1,5 +1,5 @@
 {
-    "name": "TeamOfMalaysia/logger",
+    "name": "teamofmalaysia/logger",
     "description": "The laravel log",
     "keywords": ["laravel", "logger"],
     "require": {
